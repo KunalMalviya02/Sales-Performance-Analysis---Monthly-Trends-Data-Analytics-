@@ -5,7 +5,7 @@ The goal is to uncover insights from sales data across different product lines a
 helping sales teams make informed, data-driven decisions.
 
 # Dashboard Screenshot
-<img width="1167" height="735" alt="Dashboard Image" src="https://github.com/user-attachments/assets/f3134762-6f4a-45cd-b19c-861b0ad5fa50" />
+<img width="1328" height="734" alt="image" src="https://github.com/user-attachments/assets/fd4f99e6-0007-4ad2-b88f-4febcf7f774b" />
 
 
 ---
